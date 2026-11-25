@@ -1,0 +1,235 @@
+[
+  {
+    "studio": "caribbeancom",
+    "name": "Caribbeancom",
+    "official_site": "https://www.caribbeancom.com/",
+    "id_format": "MMDDYY-NNN",
+    "id_regex": "^\\d{6}-\\d{3}$",
+    "example_id": "112426-001",
+    "filename_aliases": [
+      "caribbeancom",
+      "carib"
+    ],
+    "filename_example": "carib-112426-001.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/caribbeancom/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/caribbeancom/",
+    "titles_in_index": 6081
+  },
+  {
+    "studio": "caribbeanpremium",
+    "name": "Caribbeancom Premium",
+    "official_site": "https://www.caribbeancompr.com/",
+    "id_format": "MMDDYY_NNN, or SKY-NNN-NN / RED-NNN-NN (older series)",
+    "id_regex": "^(?:\\d{6}_\\d{3}|(?:SKY|RED)-\\d{3}-\\d{2})$",
+    "example_id": "112426_001",
+    "filename_aliases": [
+      "caribbeancompr",
+      "caribpr",
+      "carib-pr"
+    ],
+    "filename_example": "caribpr 112426_001.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/caribbeanpremium/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/caribbeanpremium/",
+    "titles_in_index": 6192
+  },
+  {
+    "studio": "1pondo",
+    "name": "1Pondo",
+    "official_site": "https://www.1pondo.tv/",
+    "id_format": "MMDDYY_NNN",
+    "id_regex": "^\\d{6}_\\d{3}$",
+    "example_id": "112326_001",
+    "filename_aliases": [
+      "1pondo",
+      "1pon"
+    ],
+    "filename_example": "1pondo_112326_001.mkv",
+    "jav_mania_url": "https://www.jav-mania.net/movies/1pondo/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/1pondo/",
+    "titles_in_index": 4846
+  },
+  {
+    "studio": "pacopacomama",
+    "name": "PacoPacoMama",
+    "official_site": "https://www.pacopacomama.com/",
+    "id_format": "MMDDYY_NNN",
+    "id_regex": "^\\d{6}_\\d{3}$",
+    "example_id": "112426_100",
+    "filename_aliases": [
+      "pacopacomama",
+      "paco"
+    ],
+    "filename_example": "paco 112426_100.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/pacopacomama/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/pacopacomama/",
+    "titles_in_index": 3214
+  },
+  {
+    "studio": "10musume",
+    "name": "10Musume",
+    "official_site": "https://www.10musume.com/",
+    "id_format": "MMDDYY_NN",
+    "id_regex": "^\\d{6}_\\d{2}$",
+    "example_id": "112426_01",
+    "filename_aliases": [
+      "10musume",
+      "10mu"
+    ],
+    "filename_example": "10mu-112426_01.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/10musume/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/10musume/",
+    "titles_in_index": 3409
+  },
+  {
+    "studio": "muramura",
+    "name": "Muramura",
+    "official_site": "https://www.muramura.tv/",
+    "id_format": "MMDDYY_NNN(N)",
+    "id_regex": "^\\d{6}_\\d{3,4}$",
+    "example_id": "112126_1276",
+    "filename_aliases": [
+      "muramura"
+    ],
+    "filename_example": "muramura 112126_1276.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/muramura/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/muramura/",
+    "titles_in_index": 1738
+  },
+  {
+    "studio": "heyzo",
+    "name": "HEYZO",
+    "official_site": "https://www.heyzo.com/",
+    "id_format": "NNNN",
+    "id_regex": "^\\d{4}$",
+    "example_id": "3970",
+    "filename_aliases": [
+      "heyzo"
+    ],
+    "filename_example": "HEYZO-3970.mp4, heyzo_hd_3970.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/heyzo/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/heyzo/",
+    "titles_in_index": 3447
+  },
+  {
+    "studio": "kin8",
+    "name": "Kin8tengoku",
+    "official_site": "https://www.kin8tengoku.com/",
+    "id_format": "NNNN",
+    "id_regex": "^\\d{4}$",
+    "example_id": "4278",
+    "filename_aliases": [
+      "kin8tengoku",
+      "kin8"
+    ],
+    "filename_example": "kin8tengoku-4278.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/kin8/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/kin8/",
+    "titles_in_index": 3074
+  },
+  {
+    "studio": "nyoshin",
+    "name": "Nyoshin",
+    "official_site": "https://www.nyoshin.com/",
+    "id_format": "nNNNN, or lesNNN for the lesbian series",
+    "id_regex": "^(?:n|les)\\d{3,4}$",
+    "example_id": "n3424",
+    "filename_aliases": [
+      "nyoshin"
+    ],
+    "filename_example": "nyoshin n3424.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/nyoshin/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/nyoshin/",
+    "titles_in_index": 3693
+  },
+  {
+    "studio": "hgmo",
+    "name": "Heydouga (H:G:M:O)",
+    "official_site": "https://www.heydouga.com/",
+    "id_format": "NNNN",
+    "id_regex": "^\\d{4}$",
+    "example_id": "6608",
+    "filename_aliases": [
+      "heydouga",
+      "hgmo"
+    ],
+    "filename_example": "hgmo 6608.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/hgmo/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/hgmo/",
+    "titles_in_index": 3928
+  },
+  {
+    "studio": "h4610",
+    "name": "H4610",
+    "official_site": "https://www.h4610.com/",
+    "id_format": "ki + YYMMDD, or series + number (ori1000, gol011)",
+    "id_regex": "^[a-z]{2,3}\\d{3,6}$",
+    "example_id": "ki261027",
+    "filename_aliases": [
+      "h4610"
+    ],
+    "filename_example": "h4610-ki261027.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/h4610/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/h4610/",
+    "titles_in_index": 3797
+  },
+  {
+    "studio": "c0930",
+    "name": "C0930",
+    "official_site": "https://www.c0930.com/",
+    "id_format": "ki + YYMMDD, or series + number (hitozuma0051, gol0001)",
+    "id_regex": "^[a-z]{2,8}\\d{4,6}$",
+    "example_id": "ki261027",
+    "filename_aliases": [
+      "c0930"
+    ],
+    "filename_example": "c0930-ki261027.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/c0930/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/c0930/",
+    "titles_in_index": 3734
+  },
+  {
+    "studio": "h0930",
+    "name": "H0930",
+    "official_site": "https://www.h0930.com/",
+    "id_format": "ki + YYMMDD, or series + number (ori1000, gol004)",
+    "id_regex": "^[a-z]{2,3}\\d{3,6}$",
+    "example_id": "ki260920",
+    "filename_aliases": [
+      "h0930"
+    ],
+    "filename_example": "h0930-ki260920.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/h0930/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/h0930/",
+    "titles_in_index": 3231
+  },
+  {
+    "studio": "pikkur",
+    "name": "Pikkur",
+    "official_site": "https://www.pikkur.com/",
+    "id_format": "NNNNN",
+    "id_regex": "^\\d{5}$",
+    "example_id": "04727",
+    "filename_aliases": [
+      "pikkur"
+    ],
+    "filename_example": "pikkur 04727.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/pikkur/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/pikkur/",
+    "titles_in_index": 2952
+  },
+  {
+    "studio": "av9898",
+    "name": "AV9898",
+    "official_site": "https://av9898.heydouga.com/",
+    "id_format": "NNN or NNNN",
+    "id_regex": "^\\d{2,4}$",
+    "example_id": "2948",
+    "filename_aliases": [
+      "av9898"
+    ],
+    "filename_example": "av9898 2948.mp4",
+    "jav_mania_url": "https://www.jav-mania.net/movies/av9898/{id}/",
+    "jav_mania_studio_page": "https://www.jav-mania.net/sites/av9898/",
+    "titles_in_index": 2497
+  }
+]

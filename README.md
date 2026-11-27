@@ -67,6 +67,8 @@ def lookup(studio, content_id):
 print(lookup("pacopacomama", "101416_183")["url"])
 ```
 
+Also on Hugging Face: [jav-mania/uncensored-jav-index](https://huggingface.co/datasets/jav-mania/uncensored-jav-index).
+
 Tools that already use JAV Mania: [Stash scraper](https://github.com/jav-mania/stash-scraper).
 
 ## License
